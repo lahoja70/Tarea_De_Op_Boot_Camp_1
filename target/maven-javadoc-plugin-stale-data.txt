@@ -1,0 +1,57 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'15'
+-sourcepath
+'/Users/edensilvestre/NetBeansProjects/mavenproject1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'mavenproject1 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/15/docs/api' '/Users/edensilvestre/NetBeansProjects/mavenproject1/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'mavenproject1 1.0-SNAPSHOT API'
+'/Users/edensilvestre/NetBeansProjects/mavenproject1/src/main/java/SumaNumeros.java'
+'/Users/edensilvestre/NetBeansProjects/mavenproject1/src/main/java/Main.java'
+'/Users/edensilvestre/NetBeansProjects/mavenproject1/src/main/java/Coche.java'
+/Users/edensilvestre/NetBeansProjects/mavenproject1/src/main/java/SumaNumeros.java = 1688456771242
+/Users/edensilvestre/NetBeansProjects/mavenproject1/src/main/java/Main.java = 1688456766698
+/Users/edensilvestre/NetBeansProjects/mavenproject1/src/main/java/Coche.java = 1688456615101
+/Users/edensilvestre/NetBeansProjects/mavenproject1/src/main/java = 1688456745754
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/constant-values.html = 1688457014293
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/tag-search-index.js = 1688457014357
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/overview-tree.html = 1688457014319
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/module-search-index.js = 1688457014354
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/index.html = 1688457014369
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/package-search-index.js = 1688457014355
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/jquery-ui.overrides.css = 1688457014400
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/package-use.html = 1688457014315
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/index-all.html = 1688457014358
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/allpackages-index.html = 1688457014367
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/deprecated-list.html = 1688457014329
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/SumaNumeros.html = 1688457014273
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/member-search-index.js = 1688457014356
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/script.js = 1688457014378
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/stylesheet.css = 1688457014376
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/help-doc.html = 1688457014373
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/package-summary.html = 1688457014281
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/Main.html = 1688457014261
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/package-tree.html = 1688457014288
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/element-list = 1688457014275
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/allclasses-index.html = 1688457014365
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/type-search-index.js = 1688457014355
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/search.js = 1688457014380
+/Users/edensilvestre/NetBeansProjects/mavenproject1/target/site/apidocs/Coche.html = 1688457014242
